@@ -1,0 +1,19 @@
+{
+  "name": "wp-gulp",
+  "version": "1.0.0",
+  "description": "Wordpress + Gulp 4",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juancaser/wp-gulp.git"
+  },
+  "author": "Juan Caser",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
